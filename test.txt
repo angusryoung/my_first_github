@@ -1,3 +1,14 @@
 Oogalooga
 
 Booglaloolgy
+
+0.git clone "insert link"
+
+1.git add -A
+
+2. git commit -m "it kinda works"
+
+3. git pull
+
+4.git push origin master
+
